@@ -66,7 +66,7 @@ class Matrix
         {
             for(j = 0 ; j < Arr[i].length ; j++)
             {
-                if(j == 0)
+                if(i == 0)
                 {
                     System.out.print(Arr[i][j]+" ");
                 }
